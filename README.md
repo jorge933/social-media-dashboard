@@ -8,4 +8,4 @@
 
 ### Light-Mode
 
-![](https://github.com/jorge933/Social-media-dashboard/blob/main/images/lightlight-mode.png)
+![](https://github.com/jorge933/Social-media-dashboard/blob/main/images/light-mode.png)
